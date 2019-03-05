@@ -6,10 +6,10 @@ const cacheList = [
   // '//www.dpfile.com/app/owl/static/owl_1.7.21.js',
   // '//analytics.meituan.net/analytics.js',
   // '//g.alicdn.com/??secdev/entry/index.js,alilog/oneplus/entry.js',
-  // '//avatar.csdnimg.cn/9/E/F/1_someby.jpg',
-  // '//csdnimg.cn/search/baidu_opensug-1.0.0.js',
-  // '//e.passiontec.cn/account-web/static/img/login_bg1.181ff32.png',
-  // '//avatar.csdnimg.cn/B/0/F/1_qq_34190023.jpg',
+  '//avatar.csdnimg.cn/9/E/F/1_someby.jpg',
+  '//csdnimg.cn/search/baidu_opensug-1.0.0.js',
+  '//e.passiontec.cn/account-web/static/img/login_bg1.181ff32.png',
+  '//avatar.csdnimg.cn/B/0/F/1_qq_34190023.jpg',
 
 ];
 const cacheName = 'pwa-cache-20190301';
